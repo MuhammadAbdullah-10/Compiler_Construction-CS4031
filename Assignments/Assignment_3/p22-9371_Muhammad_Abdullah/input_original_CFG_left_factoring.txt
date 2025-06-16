@@ -1,0 +1,1 @@
+A -> order confirmed payment processed shipped | order confirmed payment processed canceled | order confirmed pending review

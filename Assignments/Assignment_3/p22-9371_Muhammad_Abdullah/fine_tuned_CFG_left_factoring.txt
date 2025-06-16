@@ -1,0 +1,3 @@
+A -> order confirmed B
+B -> payment processed C | pending review
+C -> shipped | canceled
